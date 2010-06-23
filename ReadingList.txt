@@ -1,0 +1,61 @@
+THIS IS JUST A PARTIAL LIST (I will add other titles I have read later...)
+
+I have read these books/media cover to cover and did most exercises:
+1. Computer Security Basics
+2. SOA Security
+3. Understanding Enterprise SOA
+4. Peepcode - clojure, Sinatra, jQuery, RSpec(all) , REST, Rails(all)
+5. HeadFirst PMP
+6. The RSpec Book
+7. The Java Programming Language 3rd Edition
+8. SQL for Smarties
+
+I have read at least 75% of these books and did some exercises:
+1. Agile Web Development Rails
+2. Programming Ruby
+3. Ruby Cookbook
+4. Iron Python in Action
+5. Everyday Scripting in Ruby
+6. Enterprise Integration with Ruby
+7. Several online tutorials on Netbeans, Glassfish, OpenESB, and Mural
+8. Essential XMNL for Web Professionals
+9. Visual MS Project Management 
+10. Teach yourself HTML and XHTML
+11. Web Design in a NutShell
+12. Enterprise Architecture EA3
+
+I have read at least 50% of these books and did some exercises:
+1. Java Servlet Programming
+2. Business Intelligence fro the Enterprise Mike Beire
+3. Hands-On Microsoft® SQL Server™ 2005 Integration Services
+4. Smart Business Intelligence Solutions with Microsoft® SQL Server® 2008
+5. jQuery in Action
+6. Restful Web Services
+7. Mashup Strategies for the Modern Enterprise
+8. LINQ in Action
+9. Building SOA-Based Composite Applications Using NetBeans IDE 6
+10. Flexible Rails
+11. Continuous Integration in .net
+12. SQL Server Deep Dives
+13. Visual Studio 2005
+14. Ruby FOR Rails 
+
+Currently own but only just started (the optimist in me):
+1. Clojure in Action
+2. R in Action
+3. Real World Functional Programming
+4. Tuscany in Action
+5. Open Source SOA
+6. Event Processing in Action
+7. Azure in Action
+8. ASP.NET with Ajax in Action
+
+Other stuff read in the past:
+1. Several Powerbuilder books
+2. Several C / C++ books
+3. Algorithms, Patterns, UML, Rational, etc.
+4. SQL Server and Oracle
+5. Sybase/TSQL Certified Training Classes
+6. Java Certified Training Classes 
+7. Several Project Management books
+8. Windows COM and API books
